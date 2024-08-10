@@ -1,0 +1,12 @@
+paytm-nextjs
+
+Already taken steps
+1. define the prisma schema
+2. create prisma acclerate url
+3. Step-up- next-auth
+
+Steps to be taken
+1. UI designing
+    1.1 designing the sigin component
+    1.2 designing the landing page
+2. functionality implementation
